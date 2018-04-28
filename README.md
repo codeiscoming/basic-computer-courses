@@ -18,10 +18,10 @@
 ### 第二阶段
 
 1. 恋练有词
-2. 线性代数
-3. 概率论与数理统计
-4. 算法设计与分析
-5. 编译原理
+2. [线性代数](https://www.bilibili.com/video/av12712432?from=search&seid=2763063652319436640)
+3. [概率论与数理统计](https://www.bilibili.com/video/av10770107?from=search&seid=12923315075477282401)
+4. [算法设计与分析](https://www.icourse163.org/course/PKU-1002525003) 
+5. [编译原理](https://www.icourse163.org/course/HIT-1002123007)
 6. [计算机程序设计（C++）](https://www.icourse163.org/course/XJTU-46006)
 7. [数据库系统（上）：模型与语言](https://www.icourse163.org/course/HIT-1001516002)
 
@@ -31,11 +31,12 @@
 
 ### 第三阶段
 
-1. [Java程序设计](https://www.icourse163.org/course/PKU-1001941004)
-2. [数据库系统（中）：建模与设计](https://www.icourse163.org/course/HIT-1001554030)
-3. [计算机组成原理（上）](https://www.icourse163.org/course/HIT-309001)
-4. [计算机网络](https://www.icourse163.org/course/HIT-154005)
-5. 操作系统
+1. [生活英语听说（自主模式）](http://www.xuetangx.com/courses/course-v1:TsinghuaX+30640014X+sp/about)
+2. [Java程序设计](https://www.icourse163.org/course/PKU-1001941004)
+3. [数据库系统（中）：建模与设计](https://www.icourse163.org/course/HIT-1001554030)
+4. [计算机组成原理（上）](https://www.icourse163.org/course/HIT-309001)
+5. [计算机网络](https://www.icourse163.org/course/HIT-154005)
+6. [操作系统](https://www.icourse163.org/course/HIT-1002531008)
 
 已完成：
 
