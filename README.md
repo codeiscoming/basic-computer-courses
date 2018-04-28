@@ -3,7 +3,7 @@
 ### 第一阶段
 
 1. [Office高级应用](https://www.icourse163.org/course/CUIT-1002260004)
-2. [英语语音（自主模式）](http://www.xuetangx.com/courses/course-v1:HUBU+2017022703X+sp/about)
+2. [零基础学音标-对啊网](https://www.bilibili.com/video/av5123229/?p=1)
 3. [高等数学](https://www.bilibili.com/video/av12093808?from=search&seid=4448055474073282670)
 4. [离散数学](https://www.icourse163.org/course/UESTC-1002268006)
 5. [逻辑学导论](https://www.icourse163.org/course/NWU-1002328025)
